@@ -1,0 +1,8 @@
+{
+  "chainId": 5042002,
+  "rpc": "https://rpc.testnet.arc.network",
+  "contract": "ArcHungjcnguyeByteProofHub",
+  "address": "0x382C6088E68Fd7D66c8b7AE0E86524Ed79Bd1213",
+  "txHash": "0xaf71233d3f9815eeb1034005640e2e8d9afbf0cd50c047905105b099042a6b4e",
+  "deployer": "0xF226712E3Bb91156E985eb995E1ae524Ca8896EC"
+}
